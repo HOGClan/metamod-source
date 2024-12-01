@@ -165,7 +165,7 @@ bool Command_Meta(IMetamodSourceCommandInfo *info)
 
 			return true;
 		}
-		else if (strcmp(command, "list") == 0)
+		
 		{
 			CPluginManager::CPlugin *pl;
 			ISmmPlugin *plapi;
