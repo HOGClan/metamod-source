@@ -1,6 +1,6 @@
 Metamod:Source
 ==============
-Changes from Hoglan: Now the `meta list meta version` etc will be hidden.
+Note! Changes from Hoglan: Now the `meta list meta version` etc will be hidden.
 
 Metamod:Source - A C++ Plugin Environment and Detour Library for the Source Engine.
 
